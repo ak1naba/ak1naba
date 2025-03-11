@@ -1,4 +1,4 @@
-# Привет! 👋 Меня зовут [Ваше имя]
+# ああ
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak1naba&show_icons=true)
 
